@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1655165698 source:c:\users\luisr\desktop\projetos\provafinal\funcoes.c
+	"funcoes.h"
+
+1655172503 source:c:\users\luisr\desktop\projetos\provafinal\main.c
+	<stdio.h>
+	<time.h>
+
+1655165711 c:\users\luisr\desktop\projetos\provafinal\funcoes.h
+
